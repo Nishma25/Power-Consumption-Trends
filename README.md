@@ -30,6 +30,7 @@ Average Active Power in kiloWatts is calculated on a day in a selected month alo
  
 
 ### [Data sheet](https://docs.google.com/spreadsheets/d/1j-Zlqa5xSC52tAbO0DvhyyAt8wzeDHUXrPM9xR6hhR0/edit?usp=sharing)
+### [WebPage](https://nishma25.github.io/Power-Consumption-Trends/project/index.html#)
 
 ## NOTE: Charts in the web page are linked to the data sheet , any changes in the sheet will get updated in the webpage
 
