@@ -1,6 +1,6 @@
 # Power-Consumption-Trends
 
-## In this webpage, Temperature analysis of the data for the period, July-Dec 2019 is published.
+## In this webpage, Active Power analysis of the data for the period, July-Dec 2019 is published.
 
 ### ActivePower(kW) vs Time:
  Average Active Power in kiloWatts is calculated and plotted against each hour for a day    in a selected month.
